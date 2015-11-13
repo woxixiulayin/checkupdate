@@ -1,6 +1,6 @@
-####get git update information,use mail to notice
+###get update information in git respository,send mail to notice
 
-####use config.py file to config your project
+###you should add a config.py file to config your project as below:
 >this is a config.py file<br>
 
 ```python
@@ -31,3 +31,6 @@ config_test = {
 }
 
 ```
+
+###start
+>use command "python run.py"
