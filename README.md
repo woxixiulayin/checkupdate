@@ -4,6 +4,7 @@
 >this is a config.py file<br>
 
 ```python
+#!coding:utf-8
 mailto_list = ["416883813@qq.com"] #my mailaddress
 mail_host = "smtp.163.com"  # 设置服务器
 mail_user = "username"  # 用户名
